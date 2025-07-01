@@ -1,0 +1,8 @@
+logs/
+conf/
+app/sql/
+app/public/wp-content/uploads/
+app/public/wp-content/cache/
+app/public/wp-config.php
+*.log
+.DS_Store
